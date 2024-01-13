@@ -1,0 +1,12 @@
+Geometry Calculator
+
+1. Calculate the area of a Circle
+2. Calculate the area of a Rectangle
+3. Calculate the area of a Triangle
+4. Quit
+
+Enter your choice (1-4):
+
+Enter the circle's radius:
+
+The area is 50.27
